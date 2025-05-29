@@ -4,6 +4,10 @@
     "email": "calcdiedhere@gmail.com"
   },
   "records": {
-    "A": ["51.79.173.35"]
-  }
+    "A": ["51.79.173.35"],
+    "CNAME": "cname.vercel-dns.com."
+  },
+  "services": {
+        "vercel": "vc-domain-verify=calc.is-a.dev,a4c761138184a4dc662c"
+    }
 }
